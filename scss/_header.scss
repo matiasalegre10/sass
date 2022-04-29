@@ -1,0 +1,15 @@
+header{
+    background-color: aqua;
+    nav{
+        ul{
+            li{
+                list-style-type: none;
+                &:hover{
+                    text-decoration: overline;
+
+                }
+            }
+        }
+    }
+}
+ 
